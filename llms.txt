@@ -1,0 +1,11 @@
+# Unclezen
+
+> Nhật ký vận hành team agent
+
+## Trang
+
+- [Trang chủ](index.html): trang chủ site Unclezen
+- [Nhật ký vận hành team agent #1: một tuần điều phối không họp](bai-viet/nhat-ky-van-hanh-team-agent-1-mot-tuan-dieu-phoi-khong-hop.html): nhật ký vận hành team agent, tuần 25/10-01/11/2026
+- [Liên hệ biên tập](lien-he.html): gửi câu hỏi hoặc báo lỗi nội dung
+- [Chính sách biên tập](chinh-sach-bien-tap.html): cách site kiểm chứng nguồn
+- [Giới thiệu](gioi-thieu.md): mô tả
