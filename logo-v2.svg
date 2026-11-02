@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img"><title>unclezen monogram UZ trong vòng enso</title>
+<circle cx="60" cy="60" r="56" fill="#EEF3EE"/>
+<path d="M60 16 A44 44 0 1 0 104 60" fill="none" stroke="#6F8F72" stroke-width="7" stroke-linecap="round"/>
+<path d="M34 40 V60 Q34 68 45 68 Q56 68 56 60 V40" fill="none" stroke="#1B2A4A" stroke-width="7" stroke-linecap="square"/>
+<path d="M64 40 H90 L66 68 H90" fill="none" stroke="#1B2A4A" stroke-width="7" stroke-linejoin="round" stroke-linecap="square"/>
+</svg>
